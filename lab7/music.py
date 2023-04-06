@@ -1,6 +1,5 @@
 import pygame as p
 import os
-#87783170341 Ұлбике Үсенқызы
 p.init()
 
 class SOUND:
